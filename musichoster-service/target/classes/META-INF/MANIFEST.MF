@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: dell
+Build-Jdk: 13.0.2
+Implementation-Title: musichoster-service
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.upgrad.musichoster
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/musichoster/musichoster-service
+Created-By: Maven Integration for Eclipse
+
